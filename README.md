@@ -13,6 +13,21 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <h1 >
+  Specific Career Objectives
+</h1>
+<h6 >
+To be knowledgeable concerning my career line.
+</h6>
+<h6 >
+Make a positive Impact in the world of technology and innovation.
+</h6>
+  <h6 >
+To develop skills and make discoveries for the betterment of society and the world at large.
+</h6>
+  <h6 >
+Maintain integrity at all.
+</h6>
 </div>
 
 ---
