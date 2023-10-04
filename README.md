@@ -42,7 +42,7 @@ I am a Full Stack Developer
 
 - :zap: In my free time, I visit friends and make stories.
 
-- :mailbox:How to reach me:winnieatieno00@gmaol.com
+- :mailbox:How to reach me:winnieatieno00@gmail.com
 
 ---
 
