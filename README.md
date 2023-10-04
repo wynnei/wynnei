@@ -3,9 +3,9 @@
   <h1 >
   Hello!, I am Winnie Atieno
 </h1>
-<p >
+<h4 >
   A highly enthusiastic innovative, self-driven and result oriented Kenyan citizen who has great interest and passion in technology, loves team work, determined in learning and unlearning new skills and puting them to use.
-</p>
+</h4>
   
 </div>
 
@@ -27,7 +27,7 @@ I am a Full Stack Developer
 
 - :zap: In my free time, I visit friends and make stories.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-winnie-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/winnie-atieno-906645155)
+- :mailbox:How to reach me:winnieatieno00@gmaol.com
 
 ---
 
