@@ -36,7 +36,7 @@ Maintain integrity at all.
 
 I am a Full Stack Developer 
 
-- :telescope: I’m actively seeking an opportunity in Software Engineer .
+- :telescope: I’m actively seeking an opportunity as Software Engineer .
 
 - :seedling: Exploring React.
 
